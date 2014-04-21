@@ -31,7 +31,13 @@ Ultimately, it cannot protect you from anybody who can intercept your email in
 transit.  However, it can protect you from bulk email analysis done by email
 services.
 
-## References:
+### Still to do.
+
+Aside from, y'know, everything:
+
+  * Configure Roundcube to use sabredav, carddav_plus and calendar_plus plugins.
+
+### References:
 
   * [How to set up a mail server on a GNU / Linux system](http://flurdy.com/docs/postfix/)
   * [How to run your own e-mail server with your own domain, part 1](http://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/)
